@@ -27,7 +27,5 @@ $downrank,url=poste
 $downrank,url=postuler
 $downrank,url=offres
 
-!$downrank,title="offre demploi"
-!$downrank,title="offres demploi"
 $downrank,title=recrutement
 $downrank,title=postulez
