@@ -3,29 +3,34 @@
 ! public: false
 ! author: Miriam
 
-$discard, site=malt.fr
-$discard, site=itconsultants.fr
-$discard, site=welcometothejungle.com
-$discard, site=linkedin.com
-$discard, site=indeed.com
-$discard, site=esn.hitechpros.com
-$discard, site=hellowork.com
-$discard, site=openclassrooms.com
+$discard,site=malt.fr
+$discard,site=itconsultants.fr
+$discard,site=welcometothejungle.com
+$discard,site=linkedin.com
+$discard,site=indeed.com
+$discard,site=esn.hitechpros.com
+$discard,site=hellowork.com
+$discard,site=openclassrooms.com
 
-$downrank, url=emploi
-$downrank, url=recrutement
-$downrank, url=recrute
-$downrank, url=carriere
-$downrank, url=jobs
-$downrank, url=job
-$downrank, url=candidat
-$downrank, url=candidater
-$downrank, url=metiers
-$downrank, url=mission
-$downrank, url=missions
-$downrank, url=poste
-$downrank, url=postuler
-$downrank, url=offres
+$downrank,url=emploi
+$downrank,url=recrutement
+$downrank,url=recrute
+$downrank,url=carriere
+$downrank,url=jobs
+$downrank,url=job
+$downrank,url=candidat
+$downrank,url=candidater
+$downrank,url=metiers
+$downrank,url=mission
+$downrank,url=missions
+$downrank,url=poste
+$downrank,url=postuler
+$downrank,url=offres
+
+$downrank,title=offre d'emploi
+$downrank,title=offres d'emploi
+$downrank,title=recrutement
+$downrank,title=postulez
 
 $downrank, title=offre d'emploi
 $downrank, title=offres d'emploi
