@@ -41,3 +41,6 @@ $discard,site=openclassrooms.com
 *poste*$downrank,inurl
 *postuler*$downrank,inurl
 *offres*$downrank,inurl
+
+*salaire*$discard,inurl
+*salaires*$discard,inurl
