@@ -13,19 +13,5 @@ $discard,site=hellowork.com
 $discard,site=openclassrooms.com
 
 $downrank,url=emploi
-$downrank,url=recrutement
-$downrank,url=recrute
-$downrank,url=carriere
-$downrank,url=jobs
-$downrank,url=job
-$downrank,url=candidat
-$downrank,url=candidater
-$downrank,url=metiers
-$downrank,url=mission
-$downrank,url=missions
-$downrank,url=poste
-$downrank,url=postuler
-$downrank,url=offres
 
 $downrank,title=recrutement
-$downrank,title=postulez
