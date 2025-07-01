@@ -11,7 +11,3 @@ $discard,site=indeed.com
 $discard,site=esn.hitechpros.com
 $discard,site=hellowork.com
 $discard,site=openclassrooms.com
-
-$downrank,url=emploi
-
-$downrank,title=recrutement
