@@ -11,6 +11,8 @@ $discard,site=indeed.com
 $discard,site=esn.hitechpros.com
 $discard,site=hellowork.com
 $discard,site=openclassrooms.com
+$discard,site=trabajo.org
+$discard,site=lesbonsfreelances.com
 
 *emploi*$discard,inurl
 *recrutement*$discard,inurl
@@ -26,6 +28,9 @@ $discard,site=openclassrooms.com
 *poste*$discard,inurl
 *postuler*$discard,inurl
 *offres*$discard,inurl
-
 *salaire*$discard,inurl
 *salaires*$discard,inurl
+*h/f*$discard,inurl
+*f/h*$discard,inurl
+
+*emploi*$discard,intitle
