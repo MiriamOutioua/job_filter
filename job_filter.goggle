@@ -4,6 +4,7 @@
 ! author: Miriam
 
 $discard,site=malt.fr
+$discard,site=malt.be
 $discard,site=itconsultants.fr
 $discard,site=welcometothejungle.com
 $discard,site=linkedin.com
@@ -13,6 +14,9 @@ $discard,site=hellowork.com
 $discard,site=openclassrooms.com
 $discard,site=trabajo.org
 $discard,site=lesbonsfreelances.com
+$discard,site=freelance-informatique.fr
+$discard,site=free-work.com
+$discard,site=codeurfreelance.fr
 
 *emploi*$discard,inurl
 *recrutement*$discard,inurl
@@ -27,10 +31,15 @@ $discard,site=lesbonsfreelances.com
 *missions*$discard,inurl
 *poste*$discard,inurl
 *postuler*$discard,inurl
-*offres*$discard,inurl
+*offre*$discard,inurl
+*offres$discard,inurl
+*offer*$discard,inurl
+*offers$discard,inurl
 *salaire*$discard,inurl
 *salaires*$discard,inurl
-*h/f*$discard,inurl
-*f/h*$discard,inurl
+*h-f*$discard,inurl
+*f-h*$discard,inurl
+*formation*$discard,inurl
+*formations*$discard,inurl
 
 *emploi*$discard,intitle
