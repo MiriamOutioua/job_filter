@@ -29,3 +29,7 @@ $discard,site=github.com
 $discard,site=gitlab.com
 $discard,site=glassdoor.fr
 $discard,site=emplois-informatique.fr
+$discard,site=talentsit.fr
+$discard,site=fr.jobrapido.com
+$discard,site=recrutement-it.fr
+$discard,site=candidat.francetravail.fr
