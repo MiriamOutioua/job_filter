@@ -34,4 +34,4 @@ $discard,site=fr.jobrapido.com
 $discard,site=recrutement-it.fr
 $discard,site=candidat.francetravail.fr
 
-*esn*,$boost=3,$indescription
+*esn*,$boost=3
