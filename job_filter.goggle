@@ -3,7 +3,9 @@
 ! public: false
 ! author: Miriam
 
-$discard,site=malt.*
+$discard,site=malt.fr
+$discard,site=malt.ca
+$discard,site=malt.be
 $discard,site=itconsultants.fr
 $discard,site=welcometothejungle.com
 $discard,site=linkedin.com
