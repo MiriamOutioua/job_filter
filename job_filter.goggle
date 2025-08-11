@@ -29,9 +29,7 @@ $discard,site=jobijoba.com
 $discard,site=apec.fr
 $discard,site=github.com
 $discard,site=gitlab.com
-$discard,site=glassdoor.fr
-$discard,site=glassdoor.com
-$discard,site=glassdoor.co.uk
+inurl:glassdoor.fr$discard
 $discard,site=emplois-informatique.fr
 $discard,site=talentsit.fr
 $discard,site=fr.jobrapido.com
