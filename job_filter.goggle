@@ -29,7 +29,7 @@ $discard,site=jobijoba.com
 $discard,site=apec.fr
 $discard,site=github.com
 $discard,site=gitlab.com
-inurl:glassdoor.fr$discard
+domain:glassdoor.$discard
 $discard,site=emplois-informatique.fr
 $discard,site=talentsit.fr
 $discard,site=fr.jobrapido.com
