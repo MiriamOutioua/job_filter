@@ -3,9 +3,8 @@
 ! public: false
 ! author: Miriam
 
-$discard,site=malt.fr
-$discard,site=malt.ca
-$discard,site=malt.be
+malt.*/$discard
+glassdoor.*/$discard
 $discard,site=itconsultants.fr
 $discard,site=welcometothejungle.com
 $discard,site=welcometothejungle.co
@@ -29,7 +28,6 @@ $discard,site=jobijoba.com
 $discard,site=apec.fr
 $discard,site=github.com
 $discard,site=gitlab.com
-glassdoor.*/$discard
 $discard,site=emplois-informatique.fr
 $discard,site=talentsit.fr
 $discard,site=fr.jobrapido.com
