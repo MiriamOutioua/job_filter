@@ -4,10 +4,9 @@
 ! author: Miriam
 
 malt.*/$discard
-glassdoor.*/$discard
+*glassdoor.*/$discard
+welcometothejungle.*/$discard
 $discard,site=itconsultants.fr
-$discard,site=welcometothejungle.com
-$discard,site=welcometothejungle.co
 $discard,site=linkedin.com
 $discard,site=indeed.com
 $discard,site=indeed.fr
