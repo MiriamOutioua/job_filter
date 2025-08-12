@@ -7,11 +7,11 @@
 *glassdoor.*/$discard
 welcometothejungle.*/$discard
 hitechpros./$discard
+hellowork*/$discard
 $discard,site=itconsultants.fr
 $discard,site=linkedin.com
 $discard,site=indeed.com
 $discard,site=indeed.fr
-$discard,site=hellowork.com
 $discard,site=openclassrooms.com
 $discard,site=udemy.com
 $discard,site=trabajo.org
