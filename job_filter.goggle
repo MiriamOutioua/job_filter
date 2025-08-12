@@ -3,7 +3,7 @@
 ! public: false
 ! author: Miriam
 
-malt.*/$discard
+*malt.*/$discard
 *glassdoor.*/$discard
 welcometothejungle.*/$discard
 $discard,site=itconsultants.fr
