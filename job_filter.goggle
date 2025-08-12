@@ -6,8 +6,8 @@
 *malt.*/$discard
 *glassdoor.*/$discard
 welcometothejungle.*/$discard
-hitechpros.*/$discard
-hellowork*/$discard
+hitechpros.*$discard
+hellowork*$discard
 $discard,site=itconsultants.fr
 $discard,site=linkedin.com
 $discard,site=indeed.com
